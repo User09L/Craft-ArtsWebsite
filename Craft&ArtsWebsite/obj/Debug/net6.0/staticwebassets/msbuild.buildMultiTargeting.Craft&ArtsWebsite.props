@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Craft&amp;ArtsWebsite.props" />
+</Project>
