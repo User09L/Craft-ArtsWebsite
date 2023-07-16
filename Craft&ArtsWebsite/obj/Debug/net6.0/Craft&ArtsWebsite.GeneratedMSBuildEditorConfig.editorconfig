@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Acer\source\repos\Craft&ArtsWebsite\Craft&ArtsWebsite
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Acer/source/repos/Craft&ArtsWebsite/Craft&ArtsWebsite/Components/ProductList.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQcm9kdWN0TGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Acer/source/repos/Craft&ArtsWebsite/Craft&ArtsWebsite/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

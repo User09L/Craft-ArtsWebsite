@@ -28,6 +28,9 @@ namespace Craft_ArtsWebsite.Services
         {
             var products = GetProducts();
 
+            //LINQ
+            var query = products.First(x => x.Id == productId);
+
             if (products.First(x => x.Id == productId).Ratings == null)
             {
                 products.First(x => x.Id == productId).Ratings = new int[] { rating };
@@ -50,6 +53,8 @@ namespace Craft_ArtsWebsite.Services
                 products
             );
         }
+
+        }
+        
     }
-}
 
